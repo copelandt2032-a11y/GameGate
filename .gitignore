@@ -1,0 +1,25 @@
+# Binaries
+GameGate
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build output
+/bin/
+/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Go
+*.mod.backup
+go.sum
+
+# Logs
+*.log
